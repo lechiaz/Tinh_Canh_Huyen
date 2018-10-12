@@ -1,0 +1,3 @@
+F:/project_C/learn/BT_TinhCanhHuyen/cmake-build-debug/CMakeFiles/BT_TinhCanhHuyen.dir
+F:/project_C/learn/BT_TinhCanhHuyen/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/project_C/learn/BT_TinhCanhHuyen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
